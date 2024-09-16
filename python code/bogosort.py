@@ -8,7 +8,7 @@ def bogoSort(a):
         print(a)
   
 # Driver code to test above
-a = [3, 2, 4, 1, 0, 5, -2, 10, 9]
+a = [3, 2, 4, 1, 0, 5, -2, 10]
 bogoSort(a)
 print("Sorted array:")
 for i in range(len(a)):
